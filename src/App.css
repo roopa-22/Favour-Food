@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 500;
+  position: relative;
+  margin-bottom: 15px;
+  font-family: cursive;
+  padding: 5px;
+  margin-top: 2px;
+}
+
+.input-box {
+  border-radius: 5px;
+  width: 230px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
+
+.card {
+  height: 470px;
+  width: 320px;
+  padding: 2px;
+  margin-bottom: 35px;
+  margin-left: 100px;
+}
+
+.card-img-top {
+  height: 250px;
+  width: 320px;
+}
+
+.card-body {
+  text-align: center;
+}
